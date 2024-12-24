@@ -1,4 +1,4 @@
-## Hi there 👋
+# 👋 Welcome!
 
 <!--
 **fadwen/fadwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🛠 **Certified Azure Solutions Architect** and **Microsoft 365 Expert** with a focus on:
+  - **Azure, Entra, and M365**  
+  - Virtualization and Endpoint Management with **Intune** 
+  - **Powershell scripting** and Microsoft **Graph API**.  I live in **VS Code**.
+  - On-prem solutions like **Active Directory** and **SCCM**  
+- ✨ When I’m not working, my **homelab** becomes my playground.  
+- 📺 I watch a lot of shows and almost exclusively talk via references to them.
+---
+
+Thanks for stopping by! 🚀
